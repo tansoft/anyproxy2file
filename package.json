@@ -1,0 +1,17 @@
+{
+  "name": "anyspider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "anyspider.js",
+  "dependencies": {
+    "anyproxy": "^4.0.12",
+    "cli-color": "^1.4.0",
+    "shelljs": "^0.8.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node anyspider.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
